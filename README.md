@@ -13,7 +13,7 @@ This repository contains the back-end code for an e-commerce website, which aims
 - [API Routes](#api-routes)
 - [Testing](#testing)
 - [Credits](#Credits)
-- [Walkthrough Video](#Walkthrough Video)
+- [Walkthrough Video](#Walkthrough-Video)
 
 ## Installation
 
