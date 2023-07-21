@@ -12,8 +12,8 @@ This repository contains the back-end code for an e-commerce website, which aims
 - [Usage](#usage)
 - [API Routes](#api-routes)
 - [Testing](#testing)
-- [Contributing](#contributing)
-- [License](#license)
+- [Credits](#Credits)
+- [Walkthrough Video](#Walkthrough Video)
 
 ## Installation
 
@@ -69,17 +69,9 @@ The back end of the e-commerce website provides the following API routes:
 
 ## Testing
 
-The application can be tested using Insomnia or any API testing tool of your choice. Ensure you have performed the database setup and started the server before testing the API routes. Use the routes mentioned in the [API Routes](#api-routes) section for testing the functionality.
+The application is being tested using Insomnia. Use the routes mentioned in the [API Routes](#api-routes) section for testing the functionality.
 
-## Contributing
-
-We welcome contributions to improve the e-commerce website back end. To contribute, follow these steps:
-
-1. Fork the repository.
-2. Create a new branch for your feature: `git checkout -b feature-name`
-3. Make the necessary changes and commit them: `git commit -m "Add feature-name"`
-4. Push the changes to your branch: `git push origin feature-name`
-5. Create a pull request with a detailed description of the feature/fix.
+ description of the feature/fix.
 
 ## Credits
 
