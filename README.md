@@ -92,3 +92,8 @@ We welcome contributions to improve the e-commerce website back end. To contribu
 ## Additional Info
 
 I was not able to fix the UPDATE Tag. My apologies
+
+## Walkthrough Video
+
+https://drive.google.com/file/d/1HFqEAtWzKxll3uD-Yx2E4vj37zb2ozRW/view
+
