@@ -1,6 +1,5 @@
 # Module 13 E-Commerce 
 
-![E-Commerce Logo](e-commerce-logo.png)
 
 ## Overview
 
