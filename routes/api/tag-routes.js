@@ -24,7 +24,7 @@ router.get('/:id', async (req, res) => {
     });
 
     if (!tagInfo) {
-      res.status(404).json({ message: 'Tag notfound within this id!' });
+      res.status(404).json({ message: 'Tag not found within this id!' });
       return;
     }
 
@@ -48,12 +48,12 @@ router.put('/:id', (req, res) => {
   // update a tag's name by its `id` value
   Tag.update(req.body, {
     where: {
-        isbn: req.params.id,
+        id: req.params.id,
       },
     }
   )
-    .then((category) => {
-      return res.json(category);
+    .then((tag) => {
+      return res.json(tag);
     })
     .catch((err) => res.json(err));
 });
@@ -68,7 +68,7 @@ router.delete('/:id', async (req, res) => {
     });
 
     if (!tagInfo) {
-      res.status(404).json({ message: 'No location found with this id!' });
+      res.status(404).json({ message: 'No tag found with this id!' });
       return;
     }
 
